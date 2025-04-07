@@ -13,5 +13,5 @@ CMS 내에서도 버전 관리, 역할 분담, 병렬 개발이 가능한 협업
 코드 중복과 혼선을 줄이고, 유지보수성과 재사용성 향상  
 
 # 개발정보
-스타일 : https://hyuna37.github.io//hyun_ssrkit/css/hyun.min.css
-자바스크립트 : https://hyuna37.github.io//hyun_ssrkit/js/hyun.js
+스타일 : https://hyuna37.github.io/hyun_ssrkit/css/hyun.min.css
+자바스크립트 : https://hyuna37.github.io/hyun_ssrkit/js/hyun.js
