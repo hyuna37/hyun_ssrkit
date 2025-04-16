@@ -1,0 +1,65 @@
+#header150103 .top-util {
+    background: #000;
+    ul{
+        li{
+            a {
+                color: #fff;
+            }
+        }
+    }
+}
+#b-80513 {
+    background-color: #000;
+}
+
+#footer_sample06 #footer .copyrights {
+    background-color: #000;
+}
+#footup_wrap {
+    div{
+        ul:nth-child(1) {
+            li.boxtit {
+                font-size: 16px;
+                font-weight: 700;
+                color: #fff;
+            }
+            li.inc_t04{
+                font-size: 26px;
+                color: #fff;
+                font-weight: 600;
+            }
+        }
+        ul:nth-child(2) {
+            li.boxtit {
+                font-size: 16px;
+                color: #fff;
+                font-weight: 700;
+            }
+            li:nth-child(2) {
+                b {
+                    color: #fff;
+                }
+            }
+        }
+        ul:nth-child(3) {
+            li.boxtit {
+                color: #fff;
+                font-size: 16px;
+                font-weight: 700;
+            }
+            li {
+                a {
+                    b {
+                        color: #fff;
+                    }
+                }
+            }
+        }
+    } 
+    
+}
+#iweb-HWs001_f > li {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 700;
+}
