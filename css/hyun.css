@@ -20,7 +20,7 @@
 }
 #footup_wrap div ul:nth-child(1) li.inc_t04 {
   font-size: 26px;
-  color: #fff;
+  color: #fff !important;
   font-weight: 600;
 }
 #footup_wrap div ul:nth-child(2) li.boxtit {
